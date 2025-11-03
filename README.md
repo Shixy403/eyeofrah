@@ -25,3 +25,8 @@ Gameplay centers around assembling a team of units with synergistic traits and b
 ## 🎮 Notes
 This repository contains my source code contributions only.  
 Assets and DigiPen-provided frameworks are excluded for copyright reasons.
+
+Download Instructions
+1.  **[Download the game](https://drive.google.com/file/d/10GYhV3UNVlZJPhd0PHy9xiGOwtnHu6zN/view?usp=sharing)**
+2. Extract the contents to a folder on your desktop.
+3. Run the main executable ("EyeOfRah.exe") to start playing.
